@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kalkhi/shopping-react-ui/static/css/main.07143573.css",
+    "main.js": "/kalkhi/shopping-react-ui/static/js/main.2217ab25.js",
+    "index.html": "/kalkhi/shopping-react-ui/index.html",
+    "main.07143573.css.map": "/kalkhi/shopping-react-ui/static/css/main.07143573.css.map",
+    "main.2217ab25.js.map": "/kalkhi/shopping-react-ui/static/js/main.2217ab25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07143573.css",
+    "static/js/main.2217ab25.js"
+  ]
+}
